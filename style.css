@@ -195,7 +195,7 @@ button:active {
 }
 
 .book-image {
-  background-image: url("books/book-1.png");
+  background-image: url("book-1.png");
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -204,11 +204,11 @@ button:active {
 }
 
 .book-image:hover {
-  background-image: url("books/book-1-2.png");
+  background-image: url("book-1-2.png");
 }
 
 .book-image2 {
-  background-image: url("books/book-2-1.png");
+  background-image: url("book-2-1.png");
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -217,11 +217,11 @@ button:active {
 }
 
 .book-image2:hover {
-  background-image: url("books/book-2-2.png");
+  background-image: url("book-2-2.png");
 }
 
 .book-image3 {
-  background-image: url("books/book-3-1.png");
+  background-image: url("book-3-1.png");
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -230,11 +230,11 @@ button:active {
 }
 
 .book-image3:hover {
-  background-image: url("books/book-3-2.png");
+  background-image: url("book-3-2.png");
 }
 
 .book-image4 {
-  background-image: url("books/book-4-1.png");
+  background-image: url("book-4-1.png");
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -243,11 +243,11 @@ button:active {
 }
 
 .book-image4:hover {
-  background-image: url("books/book-4-2.png");
+  background-image: url("book-4-2.png");
 }
 
 .book-image5 {
-  background-image: url("books/book-5-1.png");
+  background-image: url("book-5-1.png");
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -256,7 +256,7 @@ button:active {
 }
 
 .book-image5:hover {
-  background-image: url("books/book-5-2.png");
+  background-image: url("book-5-2.png");
 }
 
 /* ######### ABOUT ME PAGE ######################### */
